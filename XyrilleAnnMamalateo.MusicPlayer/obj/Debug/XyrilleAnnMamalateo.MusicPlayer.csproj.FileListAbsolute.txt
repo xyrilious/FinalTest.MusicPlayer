@@ -1,0 +1,15 @@
+C:\Users\COMLABPC6\source\repos\XyrilleAnnMamalateo.MusicPlayer\XyrilleAnnMamalateo.MusicPlayer\bin\Debug\XyrilleAnnMamalateo.MusicPlayer.exe.config
+C:\Users\COMLABPC6\source\repos\XyrilleAnnMamalateo.MusicPlayer\XyrilleAnnMamalateo.MusicPlayer\bin\Debug\XyrilleAnnMamalateo.MusicPlayer.exe
+C:\Users\COMLABPC6\source\repos\XyrilleAnnMamalateo.MusicPlayer\XyrilleAnnMamalateo.MusicPlayer\bin\Debug\XyrilleAnnMamalateo.MusicPlayer.pdb
+C:\Users\COMLABPC6\source\repos\XyrilleAnnMamalateo.MusicPlayer\XyrilleAnnMamalateo.MusicPlayer\obj\Debug\XyrilleAnnMamalateo.MusicPlayer.csprojAssemblyReference.cache
+C:\Users\COMLABPC6\source\repos\XyrilleAnnMamalateo.MusicPlayer\XyrilleAnnMamalateo.MusicPlayer\obj\Debug\MainWindow.g.cs
+C:\Users\COMLABPC6\source\repos\XyrilleAnnMamalateo.MusicPlayer\XyrilleAnnMamalateo.MusicPlayer\obj\Debug\App.g.cs
+C:\Users\COMLABPC6\source\repos\XyrilleAnnMamalateo.MusicPlayer\XyrilleAnnMamalateo.MusicPlayer\obj\Debug\XyrilleAnnMamalateo.MusicPlayer_MarkupCompile.cache
+C:\Users\COMLABPC6\source\repos\XyrilleAnnMamalateo.MusicPlayer\XyrilleAnnMamalateo.MusicPlayer\obj\Debug\XyrilleAnnMamalateo.MusicPlayer_MarkupCompile.lref
+C:\Users\COMLABPC6\source\repos\XyrilleAnnMamalateo.MusicPlayer\XyrilleAnnMamalateo.MusicPlayer\obj\Debug\MainWindow.baml
+C:\Users\COMLABPC6\source\repos\XyrilleAnnMamalateo.MusicPlayer\XyrilleAnnMamalateo.MusicPlayer\obj\Debug\XyrilleAnnMamalateo.MusicPlayer.g.resources
+C:\Users\COMLABPC6\source\repos\XyrilleAnnMamalateo.MusicPlayer\XyrilleAnnMamalateo.MusicPlayer\obj\Debug\XyrilleAnnMamalateo.MusicPlayer.Properties.Resources.resources
+C:\Users\COMLABPC6\source\repos\XyrilleAnnMamalateo.MusicPlayer\XyrilleAnnMamalateo.MusicPlayer\obj\Debug\XyrilleAnnMamalateo.MusicPlayer.csproj.GenerateResource.cache
+C:\Users\COMLABPC6\source\repos\XyrilleAnnMamalateo.MusicPlayer\XyrilleAnnMamalateo.MusicPlayer\obj\Debug\XyrilleAnnMamalateo.MusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\COMLABPC6\source\repos\XyrilleAnnMamalateo.MusicPlayer\XyrilleAnnMamalateo.MusicPlayer\obj\Debug\XyrilleAnnMamalateo.MusicPlayer.exe
+C:\Users\COMLABPC6\source\repos\XyrilleAnnMamalateo.MusicPlayer\XyrilleAnnMamalateo.MusicPlayer\obj\Debug\XyrilleAnnMamalateo.MusicPlayer.pdb

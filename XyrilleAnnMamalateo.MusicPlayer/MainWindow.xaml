@@ -1,0 +1,25 @@
+﻿<Window x:Class="XyrilleAnnMamalateo.MusicPlayer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:XyrilleAnnMamalateo.MusicPlayer"
+        mc:Ignorable="d"
+   
+Title="Audio player" Height="220" Width="500" Background="#FF3">
+    <Grid>
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Center"
+                    HorizontalAlignment="Center">
+            <TextBlock FontSize="20" Text="File name: " />
+            <TextBox x:Name="TBFileName" FontSize="16" Width="260"/>
+            <Button Content="Open" Click="BT_click_Open" Margin="10,0,0,0"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Bottom"
+                    HorizontalAlignment="Center">
+            <Button FontSize="18" Content="Play" Width="100" Margin="10" Click="BT_click_Play"/>
+            <Button FontSize="18" Content="Pause" Width="100" Margin="10" Click="BT_click_Pause"/>
+            <Button FontSize="18" Content="Stop" Width="100" Margin="10" Click="BT_click_Stop"/>
+        </StackPanel>
+    </Grid>
+</Window>
+
